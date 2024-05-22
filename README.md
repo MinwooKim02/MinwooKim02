@@ -6,7 +6,7 @@
      -컴퓨터정보 보안학과
      -소프트웨어 보안학과
 
-
+<!--
 **MinwooKim02/MinwooKim02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
